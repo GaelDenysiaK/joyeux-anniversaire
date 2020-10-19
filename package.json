@@ -1,0 +1,26 @@
+{
+  "name": "joyeuxanniv",
+  "version": "1.0.0",
+  "description": "Site pour souhaiter des joyeux anniversaires",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GaelDenysiaK/joyeux-anniversaire.git"
+  },
+  "keywords": [
+    "joyeux",
+    "anniversaire"
+  ],
+  "author": "Gael Denysiak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaelDenysiaK/joyeux-anniversaire/issues"
+  },
+  "homepage": "https://github.com/GaelDenysiaK/joyeux-anniversaire#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
